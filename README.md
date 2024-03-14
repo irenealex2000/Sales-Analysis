@@ -1,5 +1,5 @@
 # Sales-Analysis
-My first project on Sales to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making using Power BI 📈
+My first project as a part of the internship provided by MeriSKILL on Sales to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making using Power BI 📈
 Insights from the data:
 * The total revenue obtained is around 34,500k and the profit margin is around 59%
 * The maximum sales happens in December and least happens in January
